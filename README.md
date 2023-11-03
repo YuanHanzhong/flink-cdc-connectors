@@ -130,7 +130,7 @@ CDC Connectors for Apache Flink<sup>®</sup> welcomes anyone that wants to help 
 
 ### Code Contribute
 
-1. Leave a comment under the issue that you want to take
+1. Left comment under the issue that you want to take
 2. Fork Flink CDC project to your GitHub repositories
 3. Clone and compile your Flink CDC project
 ```bash
